@@ -6,17 +6,16 @@
 
 
 
-Ph.D Student  (4th year) 
+Ph.D Student  (3rd year) 
+
 Discipline of Mathematics
+
 Indian Institute of Technology Gandhinagar, India
+
 Office: 5/343
 
-Email: rahul.kumr[at]iitgn.ac.in
-- Bulleted
-- List
+Email: pranjal.srivastava[at]iitgn.ac.in
 
-1. Numbered
-2. List
 
 
 ```
