@@ -18,5 +18,6 @@ Email: pranjal.srivastava[at]iitgn.ac.in
 
 
 
-```
 
+I am pursing my Ph.D under the supervision of Professor Indranath Sengupta.
+My research interests are in Commutative Algebra.
